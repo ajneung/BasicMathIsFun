@@ -1,5 +1,6 @@
 # BasicMathIsFun
 
+This Application is inspire from My Daughter Computer Class.
 
 Download and Extract File
 
